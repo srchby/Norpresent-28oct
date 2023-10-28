@@ -6,3 +6,7 @@ html {
 body {
   background-image: "url(public/The_Good_the_Bad_and_the_Ugly_4_GkWHDNx.jpg)";
 }
+
+p {
+  font-family: 'Rye', serif;
+}
